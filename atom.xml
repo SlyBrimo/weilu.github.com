@@ -4,7 +4,7 @@
   <title><![CDATA[What she said]]></title>
   <link href="http://weilu.github.com/atom.xml" rel="self"/>
   <link href="http://weilu.github.com/"/>
-  <updated>2012-06-05T00:10:34+08:00</updated>
+  <updated>2012-06-05T23:39:05+08:00</updated>
   <id>http://weilu.github.com/</id>
   <author>
     <name><![CDATA[Wei Lu]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gmail's Little Big Detail]]></title>
+    <link href="http://weilu.github.com/blog/2012/06/05/gmails-little-big-detail/"/>
+    <updated>2012-06-05T22:33:00+08:00</updated>
+    <id>http://weilu.github.com/blog/2012/06/05/gmails-little-big-detail</id>
+    <content type="html"><![CDATA[<p><img src="http://weilu.github.com/images/post/2012-06-05-gmail-attached.jpg" title="[gmail no document attached alert]" ></p>
+
+<p>Gone are the days when you thought you&#8217;ve sent out an important piece of document to someone and only discovered an hour later that you forgot to attache the file. *facepalm* Now gmail searches for word like &#8220;is attached&#8221; in your email content, and alerts you when you hit the send button if there&#8217;s no attachment to the email. That&#8217;s a nice little big detail there. Thanks gmail =)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A baker named Baker in the Memory Palace watching Venus walking by]]></title>
