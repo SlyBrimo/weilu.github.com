@@ -9,7 +9,7 @@
   <meta name="author" content="Wei Lu">
 
   
-  <meta name="description" content="This is a story about the song Hurricane Katrina by Nadeah. The bottom line is that I love the song, but I didn&#8217;t buy the song and I&#8217;m &hellip;">
+  <meta name="description" content="I can&#8217;t be the only one who listens to a song on loop. White waiting for Tommy and Zi to wrap up work, here is something embarrassedly simple &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -72,6 +72,53 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h2 class="entry-title"><a href="/blog/2012/07/03/just-loop-on/">Just Loop on</a></h2>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-03T23:52:00+08:00" pubdate data-updated="true">Jul 3<span>rd</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I can&#8217;t be the only one who listens to a song on loop. White waiting for Tommy and Zi to wrap up work, here is something embarrassedly simple that does the looping, if you uses an audio tag and happen to have Zepto/jQuery like I do that is.</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;audio&#39;</span><span class="p">).</span><span class="nx">on</span><span class="p">(</span><span class="s1">&#39;ended&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span>
+</span><span class='line'>  <span class="k">this</span><span class="p">.</span><span class="nx">currentTime</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>  <span class="k">this</span><span class="p">.</span><span class="nx">play</span><span class="p">();</span>
+</span><span class='line'><span class="p">})</span>
+</span></code></pre></td></tr></table></div></figure>
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
